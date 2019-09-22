@@ -20,5 +20,5 @@ For neatness, I put all the code of `Xiaoming's friends` in this folder.
 
 ## 未来三个月规划 Plan for the next three months
 
-
-
+1. 第一步，我们将重构完代码。然后将其制作成一个类似 Substrate-Kitty https://substrate.dev/substrate-collectables-workshop/#/ 一样的教程
+2. 第二步，鉴于 Polkadot 的 btc/eth/eos/tron brigdge 没有 ready，我们将开发基于脚本或智能合约的 btc/eth/eos/tron/ 哈希时间锁定来实现跨链
